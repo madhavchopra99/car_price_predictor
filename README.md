@@ -12,6 +12,14 @@ creating a Linear Regression and Lasso regression model for sale of second hand 
 * transmission type
 * owner
 
+## Dependencies
+
+* Pandas
+* Scikit-Learn
+* Seaborn
+* Matplotlib
+* Numpy
+
 ## Data Graphs
 
 ### Pie Chart for Seller Type
